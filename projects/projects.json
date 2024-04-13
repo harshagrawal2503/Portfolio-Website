@@ -1,0 +1,62 @@
+[
+  {
+    "name": "LearnHub E-Learning Platform",
+    "desc": "LearnHub is a fully functional ed-tech platform that enables users to create, consume, and rate educational content.",
+    "image": "learnhub",
+    "category": "mern",
+    "links": {
+      "view": "https://learnhub-opju.netlify.app/",
+      "code": "https://github.com/harshagrawal2503/Learnhub"
+    }
+  },
+  {
+    "name": "Food Ordering Website",
+    "desc": "Our Food Ordering Website brings the culinary world to your fingertips, allowing you to indulge in a diverse range of flavors from the comfort of your home.",
+    "image": "Food-ordering-website",
+    "category": "mern",
+    "links": {
+      "view": "https://sylosfoodapplication.netlify.app/",
+      "code": "https://github.com/harshagrawal2503/food-ordering-website"
+    }
+  },
+  {
+    "name": "3D Boat Animation Website",
+    "desc": "3D Boat Animation Website created using Vite Framework for React and Typescript.",
+    "image": "3DAnimation-Website",
+    "category": "mern",
+    "links": {
+      "view": "https://3dboatbyharsh.netlify.app/",
+      "code": "https://github.com/harshagrawal2503/3D-Boat-Animation-Website"
+    }
+  },
+  {
+    "name": "Netflix",
+    "desc": "This project is a Netflix clone developed using the MERN stack MongoDB, Express.js, React, Node.js.",
+    "image": "netflix",
+    "category": "mern",
+    "links": {
+      "view": "https://famvies.netlify.app/",
+      "code": "https://github.com/harshagrawal2503/Netflix-clone"
+    }
+  },
+  {
+    "name": "FlipKart Clone",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkart-clone-project.netlify.app/",
+      "code": "https://github.com/harshagrawal2503/Flipkart-clone-based-cart-app.github.io"
+    }
+  },
+  {
+    "name": "Contact Management App with Charts and Maps",
+    "desc": "This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux.",
+    "image": "contact-app",
+    "category": "mern",
+    "links": {
+      "view": "https://contactsandmap.netlify.app/",
+      "code": "https://github.com/harshagrawal2503/contact-app-using-react"
+    }
+  }
+]
